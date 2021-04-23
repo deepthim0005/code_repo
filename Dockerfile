@@ -1,2 +1,2 @@
-FROM ngnix:latest
+FROM nginx:latest
 RUN apt-get update
